@@ -1,4 +1,3 @@
-
 # Functions With Arguments - Lab
 
 ## Introduction
@@ -226,7 +225,7 @@ is_better(fork_fig, fork_fig) # False
 
 Now let's write a function called `is_cheaper()` that returns `True` if a restaurant has a lower price, that is the restaurant has fewer `'$'` signs, than an alternative restaurant. The first argument should be called `restaurant` and the second argument should be called `alternative`. The function returns `False` if the two prices are equal.
 
-> **Hint:** *Strings in Python respond to then `len` function.*
+> **Hint:** *Strings in Python respond to the `len` function.*
 
 
 ```python
